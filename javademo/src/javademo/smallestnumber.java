@@ -18,6 +18,6 @@ public class smallestnumber
 	  
 	System.out.println(c+" is the smallest number");  
 	}  
-}	  
+} 	  
 
 

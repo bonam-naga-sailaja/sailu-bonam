@@ -2,9 +2,11 @@ package javademo;
 
 import java.util.Scanner;
 
-public class Rightangletriangle {
+public class Rightangletriangle 
+{
 
-	public static void main(String[] args) {
+	public static void main(String[] args)
+	{
 		 int i,j,n;
 
          System.out.print("Input number of n : ");
